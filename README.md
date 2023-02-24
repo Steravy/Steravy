@@ -21,7 +21,7 @@ I am passionate about technologies in general, although I chose to marry program
 </div>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steravy&layout=compact)](https://github.com/Steravy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steravy&layout=compact&theme=dark)](https://github.com/Steravy/github-readme-stats)
 
 
 ### 💻 Favorite OS
