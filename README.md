@@ -42,4 +42,9 @@ I am passionate about technologies in general, although I chose to marry program
 <img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 </div>
 
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Steravy}/count.svg" /></p> 
+<br></div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1fb622&height=120&section=footer"/>
