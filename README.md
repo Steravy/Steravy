@@ -1,9 +1,19 @@
-### Hi! I am Stefan Vitoria! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1fb622&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1fb622&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+I+am+Stefan+Vitoria;I+am+a+full+stack+developer.;And+I+am+from+Cape+Verde.;Welcome!+:%29)](https://git.io/typing-svg)
+
 I am passionate about technologies in general, although I chose to marry programming for life. I really like the idea of ​​simplifying people's lives through solutions that involve creating software and more.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/stefan-vitória-391924261)
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/stefan-vitória-391924261)
+  
+</div>
 
-![Stefan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steravy&show_icons=true&theme=dark)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Steravy&show_icons=true&count_private=true&hide_border=true&title_color=1fb622&icon_color=1fb622&text_color=c1fb622&bg_color=0d1117&theme=dark" alt="Stefan Vitoria github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steravy&layout=compact&hide_border=true&title_color=1fb622&text_color=01fb622&bg_color=0d1117&theme=dark" />
+</div>
 
 ## Technologies I use
 
@@ -32,4 +42,4 @@ I am passionate about technologies in general, although I chose to marry program
 <img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1fb622&height=120&section=footer"/>
