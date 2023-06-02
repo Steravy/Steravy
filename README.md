@@ -6,7 +6,7 @@ I am passionate about technologies in general, although I chose to marry program
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/stefan-vitória-391924261)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-vit%C3%B3ria-391924261/)
   
 </div>
 
